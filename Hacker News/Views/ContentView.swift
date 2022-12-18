@@ -39,7 +39,7 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
-
+// Just posting a comment for commit
 /*let posts = [
     Post(id: "1", title: "Hello"),
     Post(id: "2", title: "Bonjour"),
